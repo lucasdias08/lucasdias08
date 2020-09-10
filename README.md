@@ -1,4 +1,4 @@
-### BEM-VINDO! 👋
+## BEM-VINDO! 👋
 
 **Técnico em informática - IFRN-SC**, Potiguar e apaixonado por tecnologia.
 
@@ -7,4 +7,6 @@ Desenvolvimento de sistemas **Desktop, Web e Mobile** com **Java, SQL (MySql e P
 ### Auxiliar de CPD (atualmente)
 
 ### Analista de suporte de Redes (2019)
+
+### Fique a vontade 👇
 
